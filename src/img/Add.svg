@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Direct-Message" transform="translate(-869.000000, -875.000000)" stroke="#979797">
+            <g id="norm" transform="translate(859.000000, 567.000000)">
+                <g id="Group-2">
+                    <g id="Add" transform="translate(10.000000, 308.000000)">
+                        <path d="M13.9878245,12.7216902 C14.9967884,11.4443091 15.5990037,9.83080626 15.5990037,8.07664855 C15.5990037,3.93451293 12.2411394,0.57664855 8.09900374,0.57664855 C3.95686812,0.57664855 0.599003742,3.93451293 0.599003742,8.07664855 C0.599003742,12.2187842 3.95686812,15.5766485 8.09900374,15.5766485 C9.38686295,15.5766485 10.5989073,15.2520465 11.6577846,14.6801944" id="Oval-7"></path>
+                        <g id="Group" transform="translate(3.516740, 4.050288)">
+                            <path d="M4.5,0.5 L4.5,7.57106781" id="Line"></path>
+                            <path d="M8,4 L0.928932188,4" id="Line-Copy"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
